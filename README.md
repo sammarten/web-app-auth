@@ -1,5 +1,7 @@
 # AuthApp
 
+Implementing [this excellent Pragmatic Studio article](https://pragmaticstudio.com/tutorials/rails-session-cookies-for-api-authentication) with Elixir/Phoenix/Absinthe. I intend to include an Elm frontend SPA as well.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
